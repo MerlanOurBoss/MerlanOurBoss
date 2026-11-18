@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Merlan</h1>
-
 <div align="center">
 
 # Hi 👋, I'm Merlan
@@ -12,24 +10,34 @@
 
 </div>
 
-<h3 align="center">Hi, I'm a Unity developer moving into game design 🎮
+---
 
-5 years building games and interactive products in Unity. What I enjoy most is deciding how something should play and then making it feel right.
+5 years building games and interactive products in Unity. What I enjoy most is deciding **how something should play** and then **making it feel right**.
 
-**Selected work**
-- **2 casual web games on Yandex Games**: idle clicker and a one-rule puzzle, both made solo from concept to release
-- **Colossal Havoc**: Best VR Game at Community Jam. You play a giant smashing a village
-- **Hit Him** (Steam, Digital Factory): game feel, hit animations, balancing
-- **VR/2D training simulators** for Meta Quest 2, including a dental anesthesia trainer
-- **Unity 6 digital twin** of an air-purification system (D.V. Sokolsky Institute)
+### 🎮 Selected work
 
-**Focus:** core loops, progression & economy, tutorials, rapid prototyping, game deconstruction
-**Growing into:** metrics, LiveOps, data-driven design
+| Project | What I did |
+|---|---|
+| **Idle clicker** · Yandex Games | Solo: core loop, upgrade economy, progression curve |
+| **Puzzle game** · Yandex Games | Solo: one rule that grows through combinations |
+| **Colossal Havoc** · VR | 🏆 Best VR Game at Community Jam. Play a giant smashing a village |
+| **Hit Him** · Steam | Game feel, hit animations, balancing (with Digital Factory) |
+| **Training simulators** · Quest 2 | VR/2D scenarios, including a dental anesthesia trainer |
+| **Digital twin** · Unity 6 | Sole developer, D.V. Sokolsky Institute |
 
-**Tech:** Unity · C# · URP · XR Interaction Toolkit / OpenXR · Blender · Git
+### 🧩 Design focus
+Core loops · Progression & economy · Tutorials · Rapid prototyping · Game deconstruction
 
-📍 Open to game design roles & internships, remote or in Almaty
-📫 merlan01tel@gmail.com</h3>
+### 📈 Growing into
+Metrics · LiveOps · Data-driven design
+
+### 🛠 Tech
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest%202-0467DF?style=flat&logo=meta&logoColor=white)
+URP · XR Interaction Toolkit · OpenXR
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merlanourboss&label=Profile%20views&color=0e75b6&style=flat" alt="merlanourboss" /> </p>
 
