@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Merlan</h1>
+
+<div align="center">
+
+# Hi 👋, I'm Merlan
+
+**Unity developer → Game designer for casual F2P**
+
+<a href="mailto:merlan01tel@gmail.com"><img src="https://img.shields.io/badge/Email-merlan01tel@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Location-Almaty%20%2F%20Remote-2ea44f?style=flat"/>
+<img src="https://img.shields.io/badge/Open%20to-Game%20Design%20roles-blue?style=flat"/>
+
+</div>
+
 <h3 align="center">Hi, I'm a Unity developer moving into game design 🎮
 
 5 years building games and interactive products in Unity. What I enjoy most is deciding how something should play and then making it feel right.
