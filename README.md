@@ -11,6 +11,7 @@
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merlanourboss&label=Profile%20views&color=0e75b6&style=flat" alt="merlanourboss" /> </p>
 
 5 years building games and interactive products in Unity. What I enjoy most is deciding **how something should play** and then **making it feel right**.
 
@@ -38,8 +39,6 @@ Metrics · LiveOps · Data-driven design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest%202-0467DF?style=flat&logo=meta&logoColor=white)
 URP · XR Interaction Toolkit · OpenXR
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merlanourboss&label=Profile%20views&color=0e75b6&style=flat" alt="merlanourboss" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
