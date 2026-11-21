@@ -15,16 +15,25 @@
 
 5 years building games and interactive products in Unity. What I enjoy most is deciding **how something should play** and then **making it feel right**.
 
-### 🎮 Selected work
+### 🥽 VR & simulation
 
 | Project | What I did |
 |---|---|
-| **Idle clicker** · Yandex Games | Solo: core loop, upgrade economy, progression curve |
-| **Puzzle game** · Yandex Games | Solo: one rule that grows through combinations |
-| **Colossal Havoc** · VR | 🏆 Best VR Game at Community Jam. Play a giant smashing a village |
-| **Hit Him** · Steam | Game feel, hit animations, balancing (with Digital Factory) |
-| **Training simulators** · Quest 2 | VR/2D scenarios, including a dental anesthesia trainer |
-| **Digital twin** · Unity 6 | Sole developer, D.V. Sokolsky Institute |
+| [**Air Cleaning VR**](https://github.com/MerlanOurBoss/Air-Cleaning-VR) · Meta Quest | Solo: VR operator trainer for a gas-cleaning emulsifier. PPE, breaker lockout, 5 equipment faults, 23-step training and a scored exam. Hand tracking, 3 languages |
+| [**Colossal Havoc**](https://github.com/MerlanOurBoss/Colossal_Havoc) · VR | 🏆 Best VR Game at Community Jam. Play a giant smashing a village: physics hands, NavMesh villagers, cannons that track you · [▶ Video](https://www.youtube.com/watch?v=_whcceV37qI) |
+| [**Dental anesthesia trainer**](https://github.com/MerlanOurBoss/VR_Application_For_Dental_Clinic) · Meta Quest | Built for a dental clinic: 15 injection points across 6 techniques, syringe with volume tracking and angle lock, scoring |
+| [**VR school lab**](https://github.com/MerlanOurBoss/VR_Application_For_School) · Meta Quest | Physics and chemistry experiments, plus a computer-networking practical guided by a Kazakh voice assistant |
+| [**Digital twin**](https://github.com/MerlanOurBoss/AirCleaningMachine) · Unity 6 | Sole developer, D.V. Sokolsky Institute: gas-cleaning plant constructor, process monitoring with alerts, live gas-analyser data over USB |
+
+### 🎮 Games
+
+| Project | What I did |
+|---|---|
+| [**Nomad Chef**](https://github.com/MerlanOurBoss/Nomad-Chef) | Couch co-op cooking game in a Kazakh yurt kitchen, 1–4 players, data-driven recipes |
+| [**TerraForma**](https://github.com/MerlanOurBoss/TerraForma) | Casual sculpting puzzle: shape the ground to match a blueprint, 8 levels, 3-star rating |
+| [**Without tears**](https://github.com/MerlanOurBoss/Without-tears) | Mobile horror score attack played by ear: Steam Audio, PS1/VHS look, all balance in one config |
+
+Also shipped: [**Hit Him**](https://store.steampowered.com/app/1935160/Hit_Him/) on Steam (with Digital Factory) and two web games on Yandex Games.
 
 ### 🧩 Design focus
 Core loops · Progression & economy · Tutorials · Rapid prototyping · Game deconstruction
