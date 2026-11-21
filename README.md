@@ -20,7 +20,7 @@
 | Project | What I did |
 |---|---|
 | [**Air Cleaning VR**](https://github.com/MerlanOurBoss/Air-Cleaning-VR) · Meta Quest | Solo: VR operator trainer for a gas-cleaning emulsifier. PPE, breaker lockout, 5 equipment faults, 23-step training and a scored exam. Hand tracking, 3 languages |
-| [**Colossal Havoc**](https://github.com/MerlanOurBoss/Colossal_Havoc) · VR | 🏆 Best VR Game at Community Jam. Play a giant smashing a village: physics hands, NavMesh villagers, cannons that track you · [▶ Video](https://www.youtube.com/watch?v=_whcceV37qI) |
+| [**Colossal Havoc**](https://github.com/MerlanOurBoss/Colossal_Havoc) · VR | 🏆 Best VR Game at Community Jam. Play a giant smashing a village: physics hands, NavMesh villagers, cannons that track you· |
 | [**Dental anesthesia trainer**](https://github.com/MerlanOurBoss/VR_Application_For_Dental_Clinic) · Meta Quest | Built for a dental clinic: 15 injection points across 6 techniques, syringe with volume tracking and angle lock, scoring |
 | [**VR school lab**](https://github.com/MerlanOurBoss/VR_Application_For_School) · Meta Quest | Physics and chemistry experiments, plus a computer-networking practical guided by a Kazakh voice assistant |
 | [**Digital twin**](https://github.com/MerlanOurBoss/AirCleaningMachine) · Unity 6 | Sole developer, D.V. Sokolsky Institute: gas-cleaning plant constructor, process monitoring with alerts, live gas-analyser data over USB |
